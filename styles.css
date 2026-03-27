@@ -188,7 +188,7 @@
     }
 
     #concerts {
-        min-height: 60vw;
+        min-height: 80vw;
         padding-top: 5vh;
         padding-bottom: 5vh;
         background-color:  #111;
@@ -217,8 +217,8 @@
     }
     
     #concerts > .R > .center> img{
-        width: 19vw;
-        height: 26.9vw;
+        width: 12.5vw;
+        height: 17vw;
         margin: 0.5vw;
     }
     
